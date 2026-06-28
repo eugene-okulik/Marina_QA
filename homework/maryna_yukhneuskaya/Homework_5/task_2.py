@@ -7,7 +7,7 @@ result_3 = "результат работы программы: 9"
 operation_index = result_1.index(":")
 program_index = result_3.index(":")
 
-number_1 = result_1[operation_index + 2:] 
+number_1 = result_1[operation_index + 2:]
 number_2 = result_2[operation_index + 2:]
 number_3 = result_3[program_index + 2:]
 
